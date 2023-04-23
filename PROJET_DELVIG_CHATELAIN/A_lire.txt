@@ -1,0 +1,2 @@
+Ajout d'une fonction Collision qui empêche de passer à travers les rochers.
+Ajout du menu (il est là mais pas encore utile)
